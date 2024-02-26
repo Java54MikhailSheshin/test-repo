@@ -1,5 +1,7 @@
 text
 hello!?
 hello world
-hello my friends!
+hello my friend
 hello everyone!
+hello all!
+
